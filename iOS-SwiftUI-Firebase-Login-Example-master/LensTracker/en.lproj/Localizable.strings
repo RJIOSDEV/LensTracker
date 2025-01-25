@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  LensTracker
+
+  Created by Raj on 24/08/24.
+  Copyright © 2024 Bala. All rights reserved.
+*/
+"login_button" = "Login";
+"logout_button" = "Logout";
+"welcome_message" = "Welcome back";
+"signin_to" = "sign in to access your account";
+"enter_email" = "Enter your email";
+"Password" = "Password";
+"Rememberme" = "Remember me";
+"Forget_password" = "Forget password ?";
+
+"please_agree" = "Please agree to the Terms and Conditions.";
+"no_match" = "Passwords do not match.";
+
+"Next" = "Next";
+"NewMember" = "New Member";
+"Registernow" = "Register now";
+"GetStarted" = "Get Started";
+"by_creating" = "by creating a free account.";
+"fullname" = "Full Name";
+"Confirm_Password" = "Confirm Password";
+"terms" = "By checking the box you agree to our Terms and Conditions.";
+"already" = "Already a member?";
+"login" = "Log In";
+"Forgot" = "Forgot your password?";
+"reset" = "Reset your account.";
+"Email_Address" = "Email Address";
+"hi" = "Hi,";
+"lens_type" = "Lens Type:";
+"in_Use" = "IN USE:";
+"since" = "SINCE:";
+"until" = "UNTIL:";
+"lenses" = "Lenses";
+"no_lense" = "No Available Lenses";
+"settings" = "Settings";
+"addlense" = "Add Lenses";
+"done" = "Done";
+"rightlense" = "Right Lense";
+"leftlense" = "Left Lense";
+"bothlense" = "Both Lense";
+"lensdate" = "Lense Date";
+"startdate" = "Start Date";
+"enddate" = "End Date";
+"reminderbeforeweek" = "Reminder Before Week";
+"reminderbefore" = "Reminder Before";
+"day" = "Day";
+"delete" = "Delete";
+"language" = "Language";
+"Hungarian" = "Hungarian";
+"logout" = "Logout";
+"deleteAccount" = "Delete Account";
+"cancel" = "Cancel";
+"dissmiss" = "Dismiss";
+"remind" = "Reminder";
+"before" = "Before";
+"Yes" = "Yes";
+"No" = "No";
+"select_days" = "Select Days:";
+"selected_rem" = "Selected Reminder:";
+
+"areyousurelogout" = "Are you sure you want to logout?";
+"areyousuredelete" = "Are you sure you want to Delete Account?";
+"areyousuredelete" = "Are you sure you want to Delete Account?";
+"reminder" = "Lens Reminder";
+"reminder_your" = "Lens Reminder";
+"is_about" = "is about to expire in";
+"days" = "Days";
+"week" = "Week";
+"reminderdesc" = "Reminder: Your lens is about to expire in a week.";
+"reminder2desc" = "Reminder: Your lens is about to expire in a 1 days.";
+"verifyMAil" = "Please Verify Your Mail";
+"badformatmail" = "Invalid email format.";
+"accountconfirm" = "Please click the link in the verification email sent to you";
+"wesentpassword" = "We’ve sent a password reset link to your email. Please check your inbox (and spam folder, if needed) and follow the instructions to create a new password.";
+"backto" = "Back To";

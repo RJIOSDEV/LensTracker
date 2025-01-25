@@ -1,0 +1,10 @@
+/* 
+  Localizable(hu).strings
+  LensTracker
+
+  Created by Raj on 24/08/24.
+  Copyright © 2024 Bala. All rights reserved.
+*/
+"login_button" = "Bejelentkezés";
+"logout_button" = "Kijelentkezés";
+"welcome_message" = "Üdvözöljük az alkalmazásban!";

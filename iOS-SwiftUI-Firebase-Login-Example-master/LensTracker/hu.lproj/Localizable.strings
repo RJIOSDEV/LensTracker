@@ -1,0 +1,136 @@
+///*
+//  Localizable.strings
+//  LensTracker
+//
+//  Created by Raj on 24/08/24.
+//  Copyright © 2024 Bala. All rights reserved.
+//*/
+//
+//"login_button" = "Bejelentkezés";
+//"logout_button" = "Kijelentkezés";
+//"welcome_message" = "Üdvözöljük újra";
+//"signin_to" = "Belépés a fiókba";
+//"enter_email" = "Adja meg az e-mail címét";
+//"Password" = "Jelszó"
+//"Rememberme" = "Remember me" (Hungarian: “Jegyezd meg”)
+//"Forget password ?" = "Forget password ?" (Hungarian: “Elfelejtett jelszót ?")
+//"Next" = "Next" (Hungarian: “Következő”)
+//"NewMember" = "New Member" (Hungarian: "Új felhasználó”)
+//"Registernow" = "Register now" (Hungarian: “Regisztráció”)
+//"GetStarted" = "Get Started" (Hungarian: "Kezdés")
+//"by_creating" = "by creating a free account" (Hungarian: "ingyenes fiók létrehozásával")
+//"fullname" = "Full Name" (Hungarian: "Teljes név")
+//"Confirm_Password" = "Confirm Password" (Hungarian: "Jelszó ismételt megadása”)
+//"terms" = "By checking the box you agree to our Terms and Conditions." (Hungarian: “Feltételekkel és szabályokkal elfogadása”)
+//"already" = "Already a member?" (Hungarian: "Már van felhasználó neve?”)
+//"login" = "Log In" (Hungarian: "Belépés")
+//"Forgot" = "Forgot your password?" (Hungarian: “Elfelejtett jelszót?")
+//"reset" = "Reset your account." (Hungarian: “Ú”j jelszó létrehozása)
+//"Email_Address" = "Email Address" (Hungarian: "E-mail cím")
+//"hi" = "Hi," (Hungarian: "Szia,")
+//"lens_type" = "Lens Type:" (Hungarian: "Lencse típusa:")
+//"in_Use" = "IN USE:" (Hungarian: "Használatban:")
+//"since" = "SINCE:" (Hungarian: “Használat kezdete)
+//"until" = "UNTIL:" (Hungarian: “Használat vége:”)
+//"lenses" = "Lenses" (Hungarian: "Lencsék")
+//"settings" = "Settings" (Hungarian: “Beállítások”)
+//"addlense" = "Add Lenses" (Hungarian: "Lencse hozzáadása")
+//"done" = "Done" (Hungarian: "Kész")
+//"rightlense" = "Right Lense" (Hungarian: "Jobb lencse”)
+//"leftlense" = "Left Lense" (Hungarian: "Bal lencse”)
+//"bothlense" = "Both Lense" (Hungarian: "Mindkét lencse”)
+//"lensdate" = "Lense Date" (Hungarian: "Lencse dátum")
+//"startdate" = "Start Date" (Hungarian: "Kezdés dátuma")
+//"enddate" = "End Date" (Hungarian: "Vége dátuma")
+//"reminderbeforeweek" = "Reminder Before Week" (Hungarian: “Emlékeztess egy héttel korábban")
+//"reminderbefore" = "Reminder Before" (Hungarian: “Emlékeztess”)
+//"day" = "Day" (Hungarian: “Nap”)
+//"language" = "Language" (Hungarian: "Nyelv")
+//"Hungarian" = "Hungarian" (Hungarian: "Magyar")
+//Yeh file mein kuch aur examples hain:
+//
+//"logout" = "Logout" (Hungarian: "Kijelentkezés")
+//"deleteAccount" = "Delete Account" (Hungarian: "Fiók törlése")
+//"cancel" = "Cancel" (Hungarian: “Törlés”)
+//"dissmiss" = "Dismiss" (Hungarian: "Visszavonás”)
+//"areyousurelogout" = "Are you sure you want to logout?" (Hungarian: "Biztosan ki akar lépni?")
+//"areyousuredelete" = "Are you sure you want to Delete Account?" (Hungarian: "Biztosan törli a fiókot?")
+//"reminder" = "Reminder" (Hungarian: “Jegyezd meg)
+//"reminderdesc" = "Reminder: Your lens is about to expire in a week." (Hungarian: "Idézet: A lencsének egy hét múlva lejárnak.”)
+//"reminder2desc" = "Reminder: Your lens is about to expire in a 1 days." (Hungarian: "Idézet: A lencsének egy napon nap múlva lejárnak”)
+//"verifyMAil" = "Please Verify Your Mail" (Hungarian: “Email cím hítelesítése”)
+//"badformatmail" = "Invalid email format." (Hungarian: "Hibás email cím.”)
+// "accountconfirm" =  "Kattintson a hívatkozásra a megerősítő e-mailben";
+// "wesentpassword" =  “Új jelszó igényléséhez a hivatkozást kiküldtünk az e-mail címére.  Ellenőrizze fiókját(és a spam mappát, ha szükség van rá) és kövesse az utasításokat egy új jelszó létrehozásához.";
+"login_button" = "Bejelentkezés";
+"logout_button" = "Kijelentkezés";
+"welcome_message" = "Üdvözöljük újra";
+"signin_to" = "Belépés a fiókba";
+"enter_email" = "Adja meg az e-mail címét";
+"Password" = "Jelszó";
+"Rememberme" = "Jegyezd meg";
+"Forget_password" = "Elfelejtett jelszót?";
+"please_agree" = "Kérjük, fogadja el a Felhasználási feltételeket.";
+"no_match" = "A jelszavak nem egyeznek.";
+"no_lense" = "Nincsenek elérhető lencsék";
+"delete" = "Törlés";
+"reminder_your" = "Lencse emlékeztető";
+"is_about" = "lejár";
+"days" = "Nap";
+"week" = "Hét";
+"remind" = "Emlékeztető";
+"before" = "Előtt";
+"select_days" = "Válassza ki a napokat:";
+"selected_rem" = "Kiválasztott emlékeztető:";
+
+
+"Next" = "Következő";
+"NewMember" = "Új felhasználó";
+"Registernow" = "Regisztráljon most";
+"GetStarted" = "Kezdés";
+"by_creating" = "ingyenes fiók létrehozásával";
+"fullname" = "Teljes név";
+"Confirm_Password" = "Jelszó ismételt megadása";
+"terms" = "A jelölőnégyzet bejelölésével elfogadja a Felhasználási feltételeinket.";
+"already" = "Már van felhasználói neve?";
+"login" = "Belépés";
+"Forgot" = "Elfelejtette a jelszót?";
+"reset" = "Új jelszó létrehozása";
+"Email_Address" = "E-mail cím";
+"hi" = "Szia,";
+"lens_type" = "Lencse típusa:";
+"in_Use" = "Használatban:";
+"since" = "Használat kezdete:";
+"until" = "Használat vége:";
+"lenses" = "Lencsék";
+"settings" = "Beállítások";
+"addlense" = "Lencse hozzáadása";
+"done" = "Kész";
+"rightlense" = "Jobb lencse";
+"leftlense" = "Bal lencse";
+"bothlense" = "Mindkét lencse";
+"lensdate" = "Lencse dátuma";
+"startdate" = "Kezdés dátuma";
+"enddate" = "Vége dátuma";
+"reminderbeforeweek" = "Emlékeztess egy héttel korábban";
+"reminderbefore" = "Emlékeztess";
+"day" = "Nap";
+"Yes" = "Igen";
+"No" = "Nem";
+
+"language" = "Nyelv";
+"Hungarian" = "Magyar";
+"logout" = "Kijelentkezés";
+"deleteAccount" = "Fiók törlése";
+"cancel" = "Mégse";
+"dismiss" = "Elutasítás";
+"areyousurelogout" = "Biztosan ki akar lépni?";
+"areyousuredelete" = "Biztosan törli a fiókot?";
+"reminder" = "Emlékeztető";
+"reminderdesc" = "Emlékeztető: A lencséje egy hét múlva lejár.";
+"reminder2desc" = "Emlékeztető: A lencséje egy napon belül lejár.";
+"verifyMAil" = "Kérjük, ellenőrizze az e-mail címét";
+"badformatmail" = "Érvénytelen e-mail formátum.";
+"accountconfirm" = "Kattintson a hivatkozásra a megerősítő e-mailben.";
+"wesentpassword" = "Új jelszó igényléséhez a hivatkozást elküldtük az e-mail címére. Ellenőrizze fiókját (és a spam mappát, ha szükséges) és kövesse az utasításokat egy új jelszó létrehozásához.";
+"backto" = "Vissza";
